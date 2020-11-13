@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "app.github.token",
+    "type": "java.lang.String",
+    "description": "Github third-party access token"
+  },
+  {
+    "name": "app.github.username",
+    "type": "java.lang.String",
+    "description": "Github username"
+  }
+]}
